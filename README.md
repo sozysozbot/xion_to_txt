@@ -7,5 +7,5 @@
 * `txts_docx2txt`
   * [docx2txt](https://pypi.python.org/pypi/docx2txt/0.6)を使用して抽出したテキスト＋使用したスクリプト
 
-* `cleaned_txt`
-  * `txts_docx2txt`を人力で清書したもの
+* `first_draft`
+  * `txts_docx2txt`の人力による第一段階の清書。 整形とかはこの段階でだいたいやっておく。
