@@ -1,6 +1,6 @@
 # xion_to_txt
 
-`img`には[xion.pdf](http://conlinguistics.org/arka/images/xion.pdf)をページごとにPDFtoPNG(http://pdf2png.com/ja/)でPNG化したもの、`docs`にはそれらを[GoogleドライブのOCR機能](https://support.google.com/drive/answer/176692)を利用して文書形式にしたものを格納
+`img`には[xion.pdf](http://conlinguistics.org/arka/images/xion.pdf)をページごとに[PDFtoPNG](http://pdf2png.com/ja/) でPNG化したもの、`docs`にはそれらを[GoogleドライブのOCR機能](https://support.google.com/drive/answer/176692)を利用して文書形式にしたものを格納
 
 ## コミットメモ
 
