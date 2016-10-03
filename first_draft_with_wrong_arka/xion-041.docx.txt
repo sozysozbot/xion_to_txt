@@ -1,32 +1,32 @@
 「あの……レイン、ご家族は？」
 　レインという言葉にだけかろうじて反応してこちらを向く。
-"[FIXME--lcoCI olen se Dc non lo se ez | sue ocen, lon, se sez elin noIn]"
+{{"xidia flen atu mil non laf tu ez a tyu fien, xink, tu at ez e kaan noan"}}
 「ここ、誰かの部屋なんじゃないの？　いまどこかに行ってるの？」
 　レインは分からないという顔で首を振り、ベッドをばんばんと叩いて誘導した。誘われ
 るままにベッドに座る。
-"[FIXME--upl olen fe Dof]"
+{{"yol flen tu mokt"}}
 「え、寝ろってこと? でもまだ少し早くないかなあ」
 　とりあえず言われたままに横になってみる。
-"[FIXME--ed8 fue (CoCI DId,88 ocen feu eflcfoenzel (cj]"
-「え、何? 寝ちやまずいの?」
+{{"ep? tyu xidia map,?? fien tur et lit fenzel tis"}}
+「え、何？ 寝ちやまずいの？」
 　起き上がる私を制するレイン。
-"[FIXME--dyo, dJo. looCI olen CD feu oll. fue leny c OCI lf Jeles non lu fue ni Inc fcnfcn]"
+{{"passo, passo. xidia flen im tur ol lax. tyu lunas i fia alt sete? non xar tyu na ani tintin"}}
 「ええと……おやすみなさい、とりあえず」
-　するとレインはにこりとしてベッドから立ち上がり、[FIXME--UCoc」]と言った。今のがおやすみ
-という意味の言葉なのだろうか。[FIXME--しcocl]と試しに言ってみたら彼女はにこりとした。
+　するとレインはにこりとしてベッドから立ち上がり、{{xidia}}と言った。今のがおやすみ
+という意味の言葉なのだろうか。{{xidia}}と試しに言ってみたら彼女はにこりとした。
 　多分……合ってる。
-　レインはドアに寄ると、ノブのところの鍵を指差し、“[FIXME--Us |JJenlsce]"と言った。ど
+　レインはドアに寄ると、ノブのところの鍵を指差し、{{"tyu ar sen kuki atu"}}と言った。ど
 うやら物を指すときは指で差してもいいようだ。どうも鍵を指しているらしい。
-"[FIXME--e el fo8 le e o8 fe8 le8]"
-"[FIXME--co ef dyJJo... II... fuje Jeyu lin uefuoloD nI. uy, Jon fe, CD feyJ, fehr]"
+{{"tu et to? le et to? tu? le?"}}
+{{"io et passo... aa... tyu ser lan vetyolom na. ya, son tu, im tur, tu!"}}
 　レインはトゥと強調した。レかトゥか聞いたのだが、レインはトゥが良いと言った……
 のだと思う。なるほど、レは遠称を表すが、このように話し相手がその対象の近くにいる
 と、近称のトゥを使うようだ。ふむふむ。
-「で、えっと……。[FIXME--sə es so8]」
-"[FIXME--helc]"
-"[FIXME--sƏ es lƏC8]"
-"[FIXME--sc]"
-　あれ? ヤーではなく、ティアと言ったぞ。肯定しているムードだからヤーと同じかな。
+「で、えっと……。{{tu et to?}}」
+{{"kuki"}}
+{{"tu et kuki?"}}
+{{"tia"}}
+　あれ？ ヤーではなく、ティアと言ったぞ。肯定しているムードだからヤーと同じかな。
 肯定の語が1語しかない訳がないもんね。中国語だって肯定は「是」でもいいし「没錯」
 
 41
