@@ -1,11 +1,11 @@
-[FIXME--"dJɔ8 sə es oci non, foly. Insoly, oC noin"]
+{{"passo? tu et fia noan, atolas. aaatolas, fia noan"}}
 　アトラスがフィア・ノアンで、地球がフィア・トゥアンだそうだ。フィアというのが共
 通しているので、フィアは世界とかそういう意味ではないか。
 　となるとノアンはレインから見て「私の」という意味で、トウアンというのは「あなた
 の」という意味だろうか。そういえば「私」のノンと「あなた」のテュに少しずつ似てい
 る。
-「え……と、つまり、[FIXME--OCI səın es foly]なの？」
-[FIXME--"u, oc non es soly. Jee ocI sƏın es so8"]
+「え……と、つまり、{{fia tuan et atolas}}なの？」
+{{"ya, fia noan et atolas. see fia tuan et to?"}}
 　どうも「私の世界はアトラスよ」と言ったらしい。そうだと意味が通じる。恐らくフィ
 アは世界という意味で、アトラスは彼女の世界……というか星の名前ではないか。
 
@@ -14,17 +14,17 @@
 試しに{{"tu et lei xion?"}}と本を指した。
 　すると、レインは{{"ya, lei tuan"}}と返した。
 「あ、いや、人称代名詞に置き換えないでほしいのよね……。{{lei xion? lei xion?}}」
-[FIXME--"u, sə es lec sƏın, en lec non hlı ej sųƏ Jenyno lec e con lec e con."]
+{{"ya, tu et lei tuan. en lei noan. lala es tyu rensand lei e xion lei e xion..."}}
 　ん？　いま、レイ・シオンでなく、レイ・エ・シオンと言わなかったか？
 「レイン、{{lei xion? lei e xion?}}」
 　何度か繰り返すと、レインはハッという顔になった。どうやらこちらの意図を理解した
 ようだ。
-[FIXME--"ln, fue jeu nueuploD e "e" jefe. 3D, lec e con el fC. lec e lcon, lec eeeee lcon"]
+{{"alna, tyu ser lan vetyolem e "e" sete. qm, lei e xion et tia, lei e xion, lei eeeee xion"}}
 「分かったわ、所有はエで表すのね」
-[FIXME--"lec e Con Ộ"]
+{{"lei e xion &K"}}
 　だんだん教え方の要領を得てきたようで助かる。
 
-[FIXME--"hIC, suə en Lil es e QCI sƏIn Jese. JICI, ses non Jepu lın OC on sųə, lcon"]
+{{"hai, tyu en xax est e fia tuan sete. saia, tet non ser lan fi on tyu, xion"}}
 「次は何を練習しよっか。とりあえずレインがゆっくり単語を区切って発音してくれるか
 ら助かるよ。独り言以外は、だけど。でも、ちゃんと私に教えてくれるつもりなんだね。
 ありがとう。{{nee}}」
