@@ -1,12 +1,12 @@
-[FIXME--e Un]と説明した。
+{{gels, xakn}}と説明した。
 「シャキ、ファプシュ、ゲルス、シャクン……と」
 　彼女はフライパンを暖め、ベーコンを乗せる。油がフライパンに染み渡る。油はベーコ
 ンの脂で十分なようだ。次に卵を落とす。それを尻目に私は野菜を取る。
 「切って良い？　サンドイッチでしょ？」
-[FIXME--"Dcl sue Jen Jen Uli. hic sue se lei con Jese. non Ulisse CD sotel"]
+{{"milx tyu rens sen arka. hai tyu te lua xion sete. non xaklat tu im toxel"}}
 「ええと、今のは切り方の説明だよね？　ジェスチャー入れてくれないと分からないよ」
 　まあ良いか。ダメなら止めるだろう。私は勝手に野菜を切りだした。
-[FIXME--"ses se escldyo. IloC, non Jens sue scCnl ols sue se lei con DCl sue fis non JCCni"]
+{{"tet tu et ilpasso. alfi, non sent tyu tiinal olta tyu te lua xion mil tyu alkat non siina"}}
 「野菜の切り方はスライスでいいの？　そういえば、玉ねぎのスライスもコカっていう
 の？　っていうか今シオンって言った？」
 
@@ -16,16 +16,16 @@
 「運ぶね」と言ってレインの手から皿を取ると、居間へ向かう。彼女はオレンジジュース
 を持ってやってきた。席に着くとまたお祈りをする。今度は聞こえた。{{"al karte"}}
 　アルカルテ？　ア・ラ・カルトみたい。んなわけないか。それって私も言ったほうがい
-いのかな。でも宗教関係だったら勝手に信者でもない私がやって怒られたりしないかな……。
+いのかな。でも宗教関係だったら勝手に信者でもない私がやって怒られたりしないかな…
+…。
 　おずおずと真似してみる。
 {{"al karte"}}
-　するとレインは[FIXME--"len, fue fin el UCI un"}と微笑んだ。
+　するとレインは{{"len, tyu tan et artist xan"}}と微笑んだ。
 
-　食事をしながら私は昨日の単語を思い出していた。パンは[FIXME--doo]などと。するとレイン
-が顔を調き込んできた。
-[FIXME--"ss"]
+　食事をしながら私は昨日の単語を思い出していた。パンは{{pof}}などと。するとレイン
+が顔を覗き込んできた。
+{{"atx?"}}
 「え、アチュ？」
-[FIXME--"ilo.C. sue JCCni loc seel8 see, sue en jeu Uli. Jon sue ilni ucl se sin JCn. Jli, Jli, non so il
-euO."]
+{{"alfi... tyu siina xoi tuul? tee, tyu en ser arka. son tyu alna vil tu tan sin. saa, saa, non to ax eyo..."}}
 
 55
