@@ -9,7 +9,7 @@
 
 {{"lein, est luan et to?"}}
 {{"est luant tisse"}}
-「ああ、{{luan}}の所有格は{{luant}}っていうのね。『彼ら』がルアンで、『彼らの』がルアント。
+「あぁ、{{luan}}の所有格は{{luant}}っていうのね。『彼ら』がルアンで、『彼らの』がルアント。
 うーん、規則性に乏しいなぁ……」
 　レインは咳払いをし、指差しながら順に答えた。1時からだった。
 {{"seinels, tiitel, poen, nermes, kleevel, kalzas, varfant, varzon, tikno, fenzel, nebra, konoote"}}

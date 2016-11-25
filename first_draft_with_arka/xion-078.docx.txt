@@ -2,7 +2,7 @@
 そうな顔をする。
 {{"lein, tyu na sort?"}}
 {{"ya"}}
-{{"son,}} でいいのかな……まあ、あなたに合わせて使ってみるよ。{{son, non deyu dia tems?"}}
+{{"son,}} でいいのかな……まぁ、あなたに合わせて使ってみるよ。{{son, non deyu dia tems?"}}
 {{"ya, ret"}}
 　やはり{{"non deyu dia"}}で「閉めましょうか」になるようだ。
 　窓を閉める。
