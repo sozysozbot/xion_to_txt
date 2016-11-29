@@ -1,7 +1,7 @@
-[FIXME--"UClin, en niCn ses UIInf"
-"UCIUln"]
+{{"vilxan, en nain tet vaan!"}}
+{{"vilxan!"}}
 　それは軍の兵士だった。
-[FIXME--"beo, səəbe es ledl e Qenzel Lur hibe dopulos Ino Inser"]
+{{"beo, tuube et kepl e fenzel xa! laabe porlot ano antes!"}}
 　アルシェさんは地面を蹴りつけた。
 　軍隊はじりじりと銃を構えて私たちを囲む。通りにいた人間は蜘蛛の子を散らすように
 逃げていってしまった。
@@ -16,17 +16,18 @@
 {{"fenzel!"}}
 　アルシェさんが憎々しげに言い放った。やはりそうか。
 　フェンゼルはふんと鼻で笑うと、兵士をかいくぐって近寄ってきた。
-[FIXME--"leCnuesc, Uleilseed, liz noolo"]
+{{"lein yutia, arxe alteems, laz knoos kok"}}
 　低く、それでいてよく通る地響きのような声だった。
-[FIXME--"en liz, Dinh"
-"seolor səəbe es Declih"]
+{{"en laz, mana!"}}
+{{"teolo! tuube et meil!"}}
 　思わずツッコむアルシェさん。
 　フェンゼルは鼻で笑う。
-[FIXME--"in Jegu lil ejf fccl. I, fee, Ji fe, In doulio fe oCCn fc... locon8 (C18"]
+{{"an ser lax est tiil. a, tee, sa tu, an porlo tu fiina ti... xion,? tia?"}}
 　嫌味な奴！
-[FIXME--"in en Jeju fc lenJ c oel NIQ. In en ni lbl | fc fef fe zOn hof. leff, pue Jeo fe || ||Ufer"]
-[FIXME--"il en iyufel fef fuənin lını pUCçp fə lıqı88"]
+{{"an en ser ti lunas i wel kad. an en na lol a ti tet tu zon hot. ketta, re sef tu al artea"}}
+{{"al en artea tet tyunan lana rig tu kad??"}}
 　レインが大声で叫ぶ。フェンゼルは笑って首を振る。
-[FIXME--"li f el fo8 upen. I, Ufe"]
+{{"ala ti kuk to,? yunk. aa, arte"}}
 
 258
+
