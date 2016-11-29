@@ -2,7 +2,7 @@
 「仲間を巻き込むなんて……それが召喚省長官のすることですか！」
 　怒りに震える。だがその私も浮きそうになる。
 「だめだ……ここで堪えなきゃ」
-[FIXME--"con Dinze, fc lenjíe In uno (cf. nozef b88 pl euC (CCl (cl hthch orir"]
+{{"xion amanze, ti lunas atu lana vano xita nozet kok?? sol eri tiil til kahi alka dac!"}}
 　フェンゼルの力が強まる。
 「く……強い。わ、私……もう……無理」
 　徐々に膝が折れる。
@@ -10,9 +10,9 @@
 {{"xion!"}}
 　そのときレインがありったけの力で叫んで、杖を持つ私の手を握った。
 　小さな白い手を私の手に重ねると、彼女は泣きそうな顔で私に微笑んだ。
-[FIXME--"se uCn uyn, puen IDC non. Dɔn sųə es epUDej nOn, ses Yns sųə es epJCɔl non e"]
+{{"te vins vasn. ren amis non. mon tyu et ermes noan, tet kaat tyu et eriol noan e"}}
 　ぎゅっと力をこめると、レインは持てる力をすべてヴァルデに捧げた。杖が激しく光る。
-[FIXME--"leCn. len N on sə OCI. Jɔn leeur"]
+{{"lein... lena alk fan tu fia. son leev!"}}
 　私とレインはふたりで杖を天高く翳した。
 
 　邪悪な真紅の光はすべてを飲み込み、天に昇った。
@@ -30,3 +30,4 @@
 　フェンゼルもまた地面に跪いた。
 
 263
+
