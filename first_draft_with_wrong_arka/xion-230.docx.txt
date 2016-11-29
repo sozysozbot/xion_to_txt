@@ -1,6 +1,6 @@
-[FIXME--"lee, fe Ulec CDen non f folcJ °1, Jee fe puenJ li fief 1 pui llen Jaci"]
+{{"lee, tu axlei imen non at tolis 7. see tu rens la taut 1 ra kaen alsia"}}
 「どれどれ……。おお、ほんとだ。アルシアに家を買ったって書いてある!」
-[FIXME--"un Ulı səəl es... JOII Cn"]
+{{"yan raka tuul et... soa in"}}
 　レインは日記に書かれた住所を指す。アルシェさんがケータイの地図で確認する。どう
 やらアルシア郊外のようだ。
 　ときにアルシアというのはアルバザード北西部の都市のことだ。その郊外にドゥルガさ
@@ -30,3 +30,4 @@
 　本だけが友達で、空想ばかりしていた。こんな世の中は嫌だと思った。私を必要として
 
 230
+

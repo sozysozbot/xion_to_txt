@@ -1,7 +1,7 @@
-[FIXME--"CD solel, in Dis I beli uəl uys UCI ils es so. Jee li lƏs sə es eloc"]
+{{"im toxel, an asmat a bekka yul vastria alt et to. see la kut tu et elfi"}}
 　なくなったもうひとつのヴァストリアはエルフィだそうだ。もともとリディアの持ち物
 で、身につけると強い魔法が使えるようになるというアイテムだ。
-[FIXME--"el Jef Jen nefil lon uuoe ol le uCeneD uiyune lon eloc e"]
+{{"el set sen netal kon varde ol lu vienem varde kon elfi e"}}
 　ヴァストリアには色々な種類のものがある。皆が戦闘用というわけではない。しかし今
 回の組み合わせは完全に戦闘向けだ。魔法の杖ヴァルデに魔力を増幅するエルフィが揃え
 ば無敵らしい。ともなればそれを横取りしようとする人間の狙いは「武力の行使」である
@@ -30,3 +30,4 @@
 「恐らく、ヴァルデの球はドゥルガさんが肌身離さず持っているんじゃないかしら」
 
 227
+
