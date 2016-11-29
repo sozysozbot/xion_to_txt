@@ -1,18 +1,18 @@
-[FIXME--"jplus"
-'pono, IlcI. Jee len lil sue Oeel le"
-"dJo"]
+﻿{{"solvat"}}
+{{"soono, alia. see lena lax tyu fuul xe"}}
+{{"passo"}}
 　言いながら、アリアは私に目をやる。
-[FIXME--"leCn CDUƏ sƏ e. ll e uIu8"]
+{{"lein imyu atu e. xax e vav?"}}
 　一瞬、「珍しいレイン」ってどんなレインかと思ってしまった。ここでの{{lein}}は「服」
 のことだ。
-[FIXME--"hh.."]
+{{"ahah..."}}
 　苦笑する私。
 　アルシェさんはこほんと喉を鳴らし、昨日起こった出来事を包み隠さずアリアに話した。
 
 　置時計の針がカチカチと時を刻む。
 　話を聞いたアリアは、袋から出したヴァルデを真剣な顔で見つめていた。
-[FIXME--"fe... el uUne y feu8"
-"non lil sųə SCn sə es NJ Iz"]
+{{"tu... et varde kaks ter?"}}
+{{"non lax tyu jins tu et kaks az"}}
 　アリアはふぅとため息をつくと、ヴァルデを手にとって何やら調べだした。
 　そのとき客間のドアがノックされ、先ほど玄関で会った妹さんが紅茶とお茶菓子を持っ
 てきてくれた。私は気まずさで冷や汗をかいた。
@@ -21,7 +21,7 @@
 
 　アリアは杖を色んな角度で見たり触ったりしていたが、やがて首を振ってヴァルデをテ
 ーブルに置いた。
-[FIXME--"fe fe lOJ, noel en ni uCqU fcCn c fe"]
+{{"tu te kaks. noel en na vir tiina i tu"}}
 　それは拍子抜けする答えだった。
 「この杖は偽物。単なるレプリカ」。
 　なぁんだ、やっぱりネブラの狂言だったのか。
@@ -30,3 +30,4 @@
 　レインは複雑な表情を浮かべるも、残るひとつの質問をした。お父さんの生死だ。
 
 201
+
