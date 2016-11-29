@@ -4,7 +4,7 @@
 　その瞬間、普段より1オクターブ高い声を上げたのはアルシェさんだった。
 {{"sara??"}}
 　男性かと思ったら、アルシェさんの義兄弟のサラさんだった。
-[FIXME--"eDI lonfc) linj Cn"]
+{{"ema xontik klans in"}}
 　彼女は倒れた男から銃を奪う。銃を構えたままレインに縄を取りに行かせる。
 
 　レインが縄を持ってくると彼女はアルシェさんに銃を渡し、3人を縛った。それから彼
@@ -12,12 +12,12 @@
 「これでひと安心ね」
 　それにしてもさっきの緑の光は何だったんだろう。銃弾をも防ぐあの謎のバリアは……。
 　倒したテーブルを立て直して席に着く。
-[FIXME--"Jee JU, e sc len se8"
-"Nlin) e (Cn enío (cl hirin fee Oeelin e lee DCnecíhinj colel lci llí fe, lidí leD."]
+{{"see sara, es ti luna atu?"}}
+{{"klans et xina ento til hacn teu fuulan e. luus minxkeit klans i toxel. alia xaklat tu, kapat al ema"}}
 　どうやら私たちは昨日から尾行されていたらしい。アリアが気付いてサラさんにこっそ
 り通報しておいたそうだ。おかげで彼らを出し抜くことができた。
-[FIXME--"lcn), eDI Inof nın lenI 1fe JI hlınJ. fef DclqpIul oonf lchi..."
-"Ihh, sə es lloc sc c Jolle lelo lɔlyes oɔns lcl e"]
+{{"xink, ema anot nan luna atu sa klans. tet milgaal font lika..."}}
+{{"ahah, tu et alfi ti ik solxe xelf kolset font lika e"}}
 　ポジティブで明るいアルシェさん。こういうところが影のあるサラさんにとって魅力的
 なんだろうな。
 
@@ -30,3 +30,4 @@
 そのときあることに気付いた。
 
 224
+

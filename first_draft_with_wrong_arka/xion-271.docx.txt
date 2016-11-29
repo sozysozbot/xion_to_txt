@@ -1,6 +1,6 @@
 　どうやら物理的な疲労は往診医が、魔法的な疲労は彼女が癒してくれたようだ。
 「あぁ、ありがとねぇ。やっば持つベきものは魔導師の友人だよ」
-[FIXME--"il, djo dypoo, noel nis bin loho loin ool loin e DolcCD &"]
+{{"aa, passo passooo, noel nat ban kokko xian fol xian es mok xiima "}}
 「ちょっと待て、私の身体に何をした！？」
 　まだ穢れていないことを切に願うばかりである。ある・あるて。
 
@@ -25,8 +25,9 @@
 　ひとりごつ。伝わらないでいい。伝わると、つらい。
 「もうひとつ魔法を使ってみようかな。今度は召喚魔法」
 　私は虚空を見つめると、彼が分かる言葉で話しかけた。
-[FIXME--"DCU JCnJ DICn ens, neeD Delsc"]
+{{"mir sins main enat, deem meltia"}}
 　呪文のような私の言葉を聞き届けてくれたのか、突如部屋の中に白い光が起こった。
 　眩しくて目を閉じる。確かここに来たときも眩しい光に包まれたんだった。
 
 271
+

@@ -1,18 +1,18 @@
-[FIXME--"ın ul lca enfo DCue Jen Jef, lcca"]
+{{"an xal lif ento miyu sen seta, liif"}}
 　サラさんは頷くと、銃を手渡した。
 
-[FIXME--"denfin, oenzel. on oCI pueefe, In luD uin (c. fil on loJ. Oon fc lil fejUCI"
-"...Joll"]
+{{"pentant, fenzel. on fia reete, an xam van ti. tal on kos, won ti xal teria"}}
+{{"...soa xa"}}
 　自分の中で何かが腑に落ちたのか、フェンゼルは肩を落とした。
-[FIXME--"cn in, Qenzel. In ipu un əlınje Luns"
-"se bCCz di Usley, lcCo"]
+{{"in an, fenzel. an ar van ulanse xant"}}
+{{"te biiz ca artales, liif"}}
 　フェンゼルは渾身の力で上体を起こすと、額を自ら銃口に突き付けた。
-[FIXME--"ın uICJ un îl sc DCuə səəbe lin (pe cs ||Umel. nc uin IJbIZIUO I sc, hICn IlseeDJ...r"
-"Il DCUo"
-"han, fc en oolc ujeci lelel bele, b8 Jee In ln un neJfueep I libe lel. Il hICZen"]
+{{"an vais van ak ti miyu tuube kad ges it ardel. nias van arbazard a ti, hain alteems...!"}}
+{{"al mirok"}}
+{{"hqn, ti en fokik yutia kelel beke, kok? see an xant van dert veer a laabe lex... al haizen"}}
 　フェンゼルは皮肉気な、しかしなぜか満足気な笑みを浮かべ、囁くように告げた。ハイ
 ンさんは彼の言葉に一瞬戸惑ったような顔を見せたが、軽く首を振って彼を見据え直した。
-[FIXME--"...hubizjun"]
+{{"...alkarbazard"}}
 　パンと乾いた音がして、ゆっくりフェンゼルは倒れていった。
 
 
@@ -30,3 +30,4 @@
 じだけ配分すれば頑張った人は不満に思うし、出来高に応じて配れば今度はもらえなかっ
 
 266
+

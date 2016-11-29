@@ -1,13 +1,13 @@
 　思わず私はぷっと笑ってしまった。
 　間髪いれず、じろっと見てくるレイン。
 　……ごめん。
-[FIXME--"n en nil con el íc Din fce oCD, uen"]
+{{"an en nalx xion tet ti man ti et fim, yunk"}}
 　レインはうっと唸って黙った。言い返せないようだ。
 　アルシェさんは慣れた手つきで自転車のカギを壊した。データ上はまだ今の女の子たち
 が自転車を使っていることになっている。私たちが盗んでも彼女たちが借りたというとこ
 ろまでしか国は把握できない。
-[FIXME--"Il ej fue jeu JCpoD e uDe. leCD, uDe eD pJCop o el JCplec. fil. el fe fe pJCp8"
-"In lo sc JD oɔni səəbe, leCn. u, lessir"]
+{{"lala es tyu ser rigom e yame... leim, yame em rig ol el rig kuki. tal... es tu te rig?"}}
+{{"an lo ti asm fonl tuube, lein. ya, ketta!"}}
 
 　私たちは自転車に跨ると、文字通り逃げ去っていった。
 　アルシアの街中を抜けると急に田舎になった。ただ郊外に住む人もいるので、かろうじ
@@ -30,3 +30,4 @@
 　降りてしばらく歩くと、ようやく隠れ家に着いた。
 
 234
+

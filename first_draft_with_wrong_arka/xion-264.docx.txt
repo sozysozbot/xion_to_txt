@@ -1,10 +1,10 @@
-[FIXME--"ej. Irlı ej. fc ef. fc el fo, con Dinze."
-"non es (Msc) cs IsoCI. Je eD luID, Qenzel. len uysca sue"
-"pDD, sc Up no) uscl In8"]
+{{"es... aca es... ti et... ti et to, xion amanze..."}}
+{{"non et alkatis it altfia. re em alvam, fenzel. lena vastik tyu"}}
+{{"gmm, ti xar nos vastik an?"}}
 　フェンゼルは懐から銃を取り出した。
 「なっ！」
 　なんて用意周到な男だろう。
-[FIXME--"jɔl in es uyfınırın uf la cl İını uno fe Yıllınof"]
+{{"sol an et vastan! an vast xaf il lana vano tu kaaaaadd!"}}
 
 　ドンと銃声がこだました。
 
@@ -16,17 +16,18 @@
 　そうだ、彼女に後ろを守ってもらっていたんだった。
 　銃からは硝煙が立ち昇っていた。
 　心なしか手が震えているように見える。人を撃ったのは流石に初めてだったのだろう。
-[FIXME--"...lonsc De Cn."
-"heC, JIUI..."]
+{{"...xontik me in"}}
+{{"hei, sara..."}}
 　アルシェさんが辛そうに立ち上がる。彼女の心情を察したのか、手に手をぎゅっと重ね
 る。
-[FIXME--"NɔDo, eD) c) Jolle lelo Juel I"]
+{{"komo, ema ik solxe xelf ravel a"}}
 　少し安心したのか、初めてサラさんが微笑みを見せた。
 　――苦笑いだったけど。
 　急にふぁっと全身が脱力するのを感じた。
 
-[FIXME--"IIIIpppppf"]
+{{"aaaaggggg!"}}
 　一方、撃たれたフェンゼルは脚を押さえて地面に崩れる。
 　どうやら脚に当たったようだ。撃たれたショックで銃を転がしてしまう。慌てて取りに
 
 264
+

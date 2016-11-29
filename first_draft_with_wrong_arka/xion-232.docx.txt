@@ -1,10 +1,10 @@
-[FIXME--今今]
+{{&3&3}}
 
 「まずっ、寝ちゃった！」
 　――跳ね起きると、サラさんが無言で監視を続けていた。
 既に朝日が差し込んでおり、8時になっていた。
-「すみ……[FIXME--Indensins, nCn. Inuinsins, JIJI lƏI]」
- [FIXME--"cildiyo"]
+「すみ……{{anpentant, dina anvantant, sara lua}}」
+ [FIXME--{{"ilpasso"}}]
 　そっけなく答えるサラさん。
 
 　私は朝ごはんを作りにいった。といっても缶詰や乾パンしかないが。
@@ -20,9 +20,9 @@
 　家を出ると急に表やかな潮風が吹いた。
 　そうか、ここは海辺の別荘だったっけ。
 　本来なら海を見てゆったりしたいところだが、そう言ってもいられない。
-[FIXME--"hec JIUI, sc lən ny o In"
-"3D. eDI holf QIn hoho heyJn e. fib lın le on Qenzel"
-"h3D. LCųə"]
+{{"hei sara, ti luna das ok ans"}}
+{{"qm... ema kolt fan kokko kern e. tab lan xe on fenzel"}}
+{{"hqm... xiyu"}}	
 　サラさんは別行動を取るようだ。フェンゼルについて調べたいことがあるらしい。
 　置いておいた自転車に乗る。アーディンたちの車も置いてあるが、駅まではわざわざ車
 を奪うほどの距離でもない。
@@ -30,3 +30,4 @@
 　ほんの一漕ぎで駅に着く。アンセの履歴はフェンゼルに盗み見されているだろうから、
 
 232
+

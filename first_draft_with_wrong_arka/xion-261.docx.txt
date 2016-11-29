@@ -1,8 +1,8 @@
-[FIXME--"Je IJslon u|Joe ons elocr"]
+{{"re art kon varde ont elfi!"}}
 「えぇっ！？　わっ、私に魔法を撃てって言うんですかっ！？」
-[FIXME--"Ue lounobllueci rleelccse lees nçp un scCJ clr"]
+{{"re lad vanobal veil cuukiite aluut nag van tiis il!"}}
 「そんな、無理ですよ！　バリアなんか張れっていわれても！」
-[FIXME--"InJ JC Delr"]
+{{"ans si mel!"}}
 「でも私、呪文も知らないんですよ！？　そもそも魔法使いでさえないんですよ！？」
 　もはやアルカを脳内で組み立てる余裕もなく、日本語で喚き散らした。
 　地面はどんどん赤みを増し、今にも張り裂けそうだ。もうハインさんにヴァストリアを
@@ -14,13 +14,13 @@
 　私がみんなを守るしかない！
 「レイン、私にしっかりつかまって！」
 　必死の形相でヴァルデを掲げる。
-[FIXME--"fue Je of }/en e UInobl, (Cue88"]
+{{"tyu re okt arten e vanobal, xiyu??"}}
 　亜麻色の髪を舞わせながら、彼女は力強く頷いた。そして桃色の唇から言葉を紡ぎだす。
 私は彼女の言葉を自分の唇に這わせた。
 
-[FIXME--	QIU e eJuƏlƆ,
-	ocol e oeJoen,
-	bil e eUCI.]
+	{{far e eryulo,}}
+	{{fiol e ferden,}}
+	{{bal e eria.}}
 
 　私たちの周りを徐々に青白い光が覆っていく。
 　これが……魔法の壁……。私にも……魔法が……。
@@ -29,3 +29,4 @@
 は心で思っても効果があるという。
 
 261
+

@@ -9,10 +9,10 @@
 く行けばいいが……。
 
 　サラさんも交えて朝食を食べ、家に鍵をかけて出た。
-[FIXME--"JIUI ess, sųə lɔpu elo. NɔNɔ lení8"]
+{{"sara etta, tyu kor elf kokko lena?"}}
 　レインが寂しそうな顔をする。しかしサラさんは相変わらずそっけない態度で返す。
-[FIXME--"dolfe IU l Ino uejfcl. eD liQ OJn nole lf uegel... fb OJn Jino Onen OueCnOI e"
-"u... pes, ses... nIDs. Il lui."]
+{{"polte ar ax ano yustil. ema lad fan noxe alt vesel. tab fan sano onen freinoa e"}}
+{{"ya... ret. tet... namt. al alva..."}}
 　彼女はそれ以上レインに言葉を返さず、アルシェさんに目配せで何か合図した。彼はコ
 クリと頷く。どうやらこの義兄弟はこれだけで意思疎通ができるらしい。
 
@@ -20,13 +20,14 @@
 　一瞬で見えなくなっちゃった。何キロ出してるんだろ。いや、この世界の長さの単位は
 メルフィだから、時速何キロじゃおかしいか。
 　私たちは盗んだ自転車に乗ろうとしたが、ドゥルガさんに制止される。
-[FIXME--"eccson Do"
-"Do8 sujə scl Do InDCIn8 QuəJoƏ"
-"In he lyCI chisees, in easis Do"]
+{{"ke xiit kon amo"}}
+{{"amo? tyu til amo anmian,? dyussou"}}
+{{"lana ke alsia i kateej, an eftat amo"}}
 　車があると思ったら盗品ですか、そうですか。
-[FIXME--"eos'8"]
+{{"eft?"}}
 　レインが眉をひそめる。
-[FIXME--"fe f JICI, leCn. In uplif uCl Inje. ne fie Jen IDo lon ooe Jen Jolf fcJ fei18"]
+{{"tu at saia, lein. an yolat vil anse. ne tau sen amo kon fou sen solt tis teal?"}}]
 　ドゥルガさんは娘の背中をぽんぽんと撫でると、倉庫の扉を開けた。
 
 250
+
