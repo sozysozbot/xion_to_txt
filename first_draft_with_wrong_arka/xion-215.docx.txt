@@ -4,15 +4,15 @@
 　でも、それって本心からの優しさなのだろうか。単に礼儀としてやっているだけなので
 はないか。
 　私は彼を横目で見た。
-[FIXME--"nee, sue es nCcs 1 non Jese8"
-"DD8"
-"DuƏn of ISI e lei o puƏlni"
-"DD. le e h0 ojpl"
-"...pl. "]
+{{"nee, tyu et niit a non sete?"}}
+{{"mm?"}}
+{{"myun okt aja e lea o rulna"}}
+{{"mm... lea et 50 oksgal"}}
+{{"...soa a"}}
 　そう……だよね。
 　私はちょっとがっかりした。すると彼は見透かしたように微笑んだ。
-[FIXME--"un puen el 10 ojpl n"
-"r JO, e"]
+{{"yan rulna et 150 oksgal na"}}
+{{"! ......soa, e"}}
 　なによ……。からかってさ。
 
 　私は赤くなって窓の外へ目をやった。紅茶が熱いせいだ。
@@ -30,3 +30,4 @@
 度すぎてまだ理解できないので、会話に付いていくことができない。
 
 215
+

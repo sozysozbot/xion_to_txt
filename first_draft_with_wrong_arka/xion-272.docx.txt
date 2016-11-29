@@ -2,8 +2,8 @@
 　私をアトラスに連れてきた張本人、悪魔メルティアだ。
 　レインたちはある程度分かっていたのか、驚いた様子を見せない。むしろ意気消沈とい
 った感じだ。
-[FIXME--"InOCCDI, QuƏJɔƏ"
-"in Jens sc DIn scullshoi ese OCI hly uplins, hisce ueDin"]
+{{"anfiima, dyussou"}}
+{{"an sent ti man ti xalat kokka e tu fia haas vox ant, alkatis e yumana"}}
 「では私はもうお役御免ですね」
 　答える代わりにメルティアは私の頭に手をかざした。
 　彼の手の平が微かな光を放つ。
@@ -29,3 +29,4 @@
 止まない嗚咽を漏らしていた。余計に苦しいのではないかと心配になる。
 
 272
+

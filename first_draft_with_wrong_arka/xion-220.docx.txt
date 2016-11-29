@@ -1,11 +1,11 @@
 　ドアの壁はそんなに厚くない。大声で作戦を言っては聞こえてしまう。私は彼の肩に手
 を置いてひょいっと浮かび上がり、耳元で幅いた。
-[FIXME--"o se.J, non JC C se pi uu nelsoons loe Jee non uno JCl ly Jos SIn. loc, non lu on
-DCnluno. Jon sue DCuhoD ODc CD non uno lcs ly, uno ly djo8"]
+{{"i tur, non rik i tu ra var nektfont lie. see non vand sil laas rot jan. alfi, non ar fan 
+minxvand. son tyu mir hom omi im non vand kit laas, vand laas, passo?"}}
 　彼は眉をひそめる。
-[FIXME--"sl. sə es lIDC scnl. Jpl In ipu un DCnluno"
-"Jensins, ses oon eDuc nccs CD feu y ule ilseeD), les, len Jc Delr"
-"...sse, II, neeDe"]
+{{"tal... tu et lami tinka. sol an ar van minxvand"}}
+{{"sentant, tet fon em vik niit im tur as, arxe alteems. ketta, lena si mel!"}}
+{{"...atte, aa, neeme"}}
 　作戦は決まった。私が隠し通路から外に出て奇襲する。彼は危ないことは自分がやると
 言ってくれたが、私がレインを守ると決めたのだ。
 
@@ -30,3 +30,4 @@ DCnluno. Jon sue DCuhoD ODc CD non uno lcs ly, uno ly djo8"]
 　こんなに怖い思いをしたのは初めてなんだろうな。まあ、私だって初めてなんだけど。
 
 220
+

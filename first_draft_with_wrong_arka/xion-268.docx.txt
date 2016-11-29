@@ -1,15 +1,15 @@
-[FIXME--"...կր8"
-"Ili off Qael enf | nICn lini mcl fe ueCD, fef puej e Qenzel Jeff fe euUenJ. Jee li lenIU fe
-seU"
-"|Ոl.8"
-"In Ne uscn NɔNo pus sepu"
-"scn"]
+﻿{{"...xan?"}}
+{{"la oktat fuul enat a nain lana dil tu veim. tet res e fenzel setat tu evrens. see la lunar atu 
+ter"}}
+{{"lana...?"}}
+{{"lana kea vatin kokko art ter"}}
+{{"...tinka"}}
 　私は呆けたように言った。そして少しだけほっとした。やけにタイミングが良いと思っ
 たが、レインの説明を聞いたら納得だ。
 　流石アリア。否、流石アルナ大八組の異能科。占いのみならず白魔法まで使えたとはね。
 
-[FIXME--"ool I Jenji nin le on fue fine"
-"hay 8 non8"]
+{{"fok la rensat nan kea fan tyu tan e"}}
+{{"hqr? non?"}}
 　私を治療する？　なんのこと？
 　首を傾げ、辺りを見回す。
 　それにしてもたった一発の魔法でこの惨事か。私は改めて恐怖した。
@@ -30,3 +30,4 @@ seU"
 　だが彼は英雄になんてなりたくもないという顔で空を見つめていた。でも、そんな彼だ
 
 268
+

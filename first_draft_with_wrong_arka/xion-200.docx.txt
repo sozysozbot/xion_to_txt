@@ -1,18 +1,18 @@
 　どうやらアリアの妹らしい。長い黒髪のアリアの妹とは思えない見た目だ。
-[FIXME--"non el con non ni pueeo. Dc nin lenn J e oeelin efc"]
+{{non et xion. non na ruuf mil nan lunak ra e fuulan esti}}
 　私が挨拶すると、彼女はにこりとした。
-[FIXME--"Inesol, ses non es sco ueUden fcnenso Inscje, Dcl non se it) i oəəl"]
+{{"anestol. tet non et tio verped t'ineaato antisse, mil non te axk a fuul"}}
 　彼女が手を差し出してきたので、私は笑顔で手を伸ばした。
-[FIXME--"inefol, ueuden locz"]
+{{"anestol, verped liiz"}}
 　その瞬間、後ろで聞いていたレインがお化けみたいな顔をして私と彼女の間に滑りこみ、
 私の口を手で塞いだ。比喩ではなく、本当に手で口を塞がれた。
 「もっ、もが!」
-[FIXME--"le infeo, le infeor leebe el Dellín le Jeu uee CJer"]
+{{"lu anteo, lu anteo! luube et mextan le ser yuu tisse!"}}
 　レインはひたすらヴェルペッドちゃんに謝る。アルシェさんは横を向いて咳き込んだふ
 りをして笑いを堪えている。いったい私が何をしたというのだ。
 　真っ青な顔のレインと対照的に、妹さんはくすくす笑うだけだった。
 
-[FIXME--"leeu, lclc cs"]
+{{"leev, lilis il"}}
 　彼女は私たちを中に招き入れると、客間へ通した。
 　革のソファに座る。ふかふかだ。妹さんはにこにこして去っていった。
 「ねえレイン、さっきのなんだったの？」
@@ -21,12 +21,13 @@
 「れいんは　おこっています!」
 　アルシェさんに助け舟を求めるが、彼は困った顔で苦笑するだけだった。
 「なによ……へンなの……」
-　口を尖らせながら、辞書で[FIXME--ueudeo]を引く。
+　口を尖らせながら、辞書で{{verped}}を引く。
 　――そして私は声を失った。
-　[FIXME--Ueudeo]。日本語にすれば「厄介者」。
+　{{verped}}。日本語にすれば「厄介者」。
 　……あぁ、誰か時間を戻して。
 
 　顔から湯気を出しながらアリアを待っていると、彼女はいつものローブに身を包んでや
 ってきた。
 
 200
+

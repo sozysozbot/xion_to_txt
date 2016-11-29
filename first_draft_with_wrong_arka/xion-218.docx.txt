@@ -9,18 +9,18 @@
 　レインを見ると、青ざめた顔でぶるぶる震えている。アルバザードでは銃の所持が禁止
 されているので、2人も初めて聞いたに違いない。
 
-[FIXME--"lecn, oc ul li sə 18"
-"un88 se, seo esso, piso DC se scJer ses lli e88"]
+{{"lein, fi vak xa atu a?"}}
+{{"vak?? te, teo etto, gaato mi atu tisse! tet lala es??"}}
 　武器なんかあるわけない。
-[FIXME--"fe efhIo, DIn In uy Qul liy"]
+{{"tu et hao, man an vas fal laas"}}
 　戦おうというのか、銃と。
 　するとレインはアルシェさんの腕にしがみついた。
-[FIXME--"seoir lly scl (pel y nonnor"]
+{{"teo! laas til gel as nonno!"}}
 　ですよねー。
-[FIXME--"fəU, leebe oɔ e pel Jolyc) In UUC sə es ui||Joe DJ, leCn, sə es OCn. In uy Qul hy"]
+{{"tur, leebe fo e gel solsik an xarik tu et varde kaks. lein, tu et fiana. ans vas fal laas"}}
 　彼はレインの肩を押さえて宥めるが、レインはその場にへたり込んで泣き出してしまっ
 た。突然の事態に頭が付いていかないようだ。
-　まいったな。向こうは3人。こっちも3人だけど、レインは戦闘要になりそうもない。
+　まいったな。向こうは3人。こっちも3人だけど、レインは戦闘要員になりそうもない。
 
 　銃声が止んだ。ドアを叩く音がする。そして怒号。
 　どうも彼らはアサシンではなく、単なる素人のようだ。恐らくヴァストリア捜索隊の誰
@@ -30,3 +30,4 @@
 　ドアを蹴る音が聞こえる。じきに突破されるだろう。
 
 218
+

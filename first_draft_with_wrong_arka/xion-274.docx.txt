@@ -8,12 +8,12 @@
 「こ……こ」
 　こ、この言語学者め!
 
-[FIXME--"NIID sc is səul Ulf sųə e8"
-"In ej Pl lo6 Jon In sJen pJuel CD le"]
+{{"kaam tis at tuval xalt tyu e?"}}
+{{"ans es ark kok? son ans akt sen ravel im xe"}}
 　どこまでもポジティブな人。
 「それを信じて待つんですか……？」
 　信じると言ってほしくもあるし、怖くもある。
-[FIXME--"ol sc en lən! Jcl In, Jon In SCJ un JCI JOuen ocI Inse"]
+{{"ol ti en luna sil an, son an jis van sia soven fia antes"}}
 「……はい」
 　私は微笑んだ。
 　ようやく私、素直に笑えたんだ。
@@ -25,8 +25,9 @@
 たよりドライな子だ。
 {{"xion, passo?"}}
 　メルティアが問う。
-「待たせてごめんなさい。……うん、お願い、メルティア。[FIXME--l cdJoe]」
+「待たせてごめんなさい。……うん、お願い、メルティア。{{ax, ilpasso e}}」
 　ぎゅっと目をつぶる。
 　さようなら、みんな。
 
 274
+

@@ -1,7 +1,7 @@
 　まずいな、こっちには武器もない。せめて刃物くらいはほしいところだ。
 　私は奥に行くと、台所を探した。包丁くらいはあるはずだ。
 　案の定、大き目の包丁が一本あったので、それを取って居間に戻った。
-[FIXME--"ple, len upl lccs sə elen lel ocNɔn"]
+{{"arxe, lena yol xiit tu elen lex dilkon"}}
 　分厚い木のテーブルを指差すと彼は頷いた。これを堤防にしよう。
 「ほら、レインも手伝って」
 　テーブルの端を持ちながらレインに言うが、彼女は下を向いて泣いている。
@@ -12,21 +12,22 @@
 　アルシェさんと力を合わせ、テーブルを引っくり返す。かなり重い。テーブルをドアの
 前に押すと、即席の堤防を作った。
 
-[FIXME--"leCn, sə pUI scl nesoons8"
-"u, lo lice UI"
-"Uen sef. Iyule, fuge DCU euO fer"]
+{{"lein, tu ra til nektfont?"}}
+{{"ya, ko lie ra"}}
+{{"ren jet. arxe, tyu mir evo atu!"}}
 　アルシェさんに包丁を手渡す。
-[FIXME--"lcųə, neeDer"]
+{{"xiyu, neeme!"}}
 　彼はテーブルに体重をかけ、敵の侵入を阻止する。
 　ようやく立てるようになったレインは私の手を引いて奥にある裏道へ案内する。ここか
 ら外に出られるようだ。
-[FIXME--"dyo, Jon fuqə pen nef nın ilı uCno"]
+{{"passo, son tyu ren nekt nan a ka vind"}}
 　とりあえずレインを安全な部屋に入れておく。彼女は前線にいないほうがいい。
-[FIXME--"Ur „ses lclc8"
-"len el unon fen, lecn"]
+{{"ax! ...tet lilis?"}}
+{{"lena et vanoan tuan, lein"}}
 　私はレインを軽く突き飛ばし、玄関へ戻る。
 
 　さて……ここが頑張りどころだぞ、私。
 　緊張した面持ちでアルシェさんに近寄る。
 
 219
+
