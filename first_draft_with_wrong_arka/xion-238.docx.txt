@@ -3,17 +3,17 @@
 
 　聞こえないよう静かに深呼吸をした。
 　聞こう。
-[FIXME--"3D... pule, fə ef yD zıl fef... fuqə lo fo on lecn e8"]
+{{"qm... arxe. tu et asm zal tet... tyu lo to on lein e?"}}
 　彼はレインのことをどう思っているのだろう。
-[FIXME--"Juu, li es lcDel In scjee"]
+{{"saa, la et limel ank tisee"}}
 　ただの妹か...。じゃあアリアは？
-[FIXME--"UoD on lo8"
-"l ín el ple"
-"lcDel o lcDel. loD on JU Jin8"]
+{{"xom on alia?"}}
+{{"la tan et soa e"}}
+{{"limel o limel... xom on sara san?"}}
 　じゃあ……サラさんは。
-[FIXME--"Il es hlin INI "]
+{{"la et hacna alka a"}}
 　やはり最高の相棒か。
-[FIXME--"ple."]
+{{"soa e..."}}
 
 　それきり私は黙りこむ。
 　レイン、アリア、サラさんと立て続けに聞いた。残るは一人しかいない。子供だって分
@@ -22,11 +22,12 @@
 て火に手をかざしている。
 　これって間接的にダメということなのだろうか。
 　もしかして既に彼女がいるのかも……。
-[FIXME--"Jee, Jee, Jee."]
+{{"see, see, see..."}}
 　「せーせー」言っても全然せいせいしない。
-[FIXME--"fue el dijo,8 on leny belle. loc. Cin en nil elo fue8"]
+{{"tyu et passo,? on lunas beke. alfi... tian tuan nalx elf tyu?"}}
 　彼女がいるか確かめる最も卑怯な手口その一、「おためごかしの術」でござい。
-[FIXME--"scIn8 ns in Jc scin e"]
+{{"tian? kaat an si tian e"}}
 　どきんとした。
 
 238
+
