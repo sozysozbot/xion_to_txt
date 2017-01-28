@@ -1,20 +1,20 @@
 えたい。
-　私はカレンダーの前に立つと2週間後の日付を指し、[FIXME--"1000ueT"]と宣言した。一日30
+　私はカレンダーの前に立つと2週間後の日付を指し、{{"1000 vet!"}}と宣言した。一日30
 個強覚えれば良い計算だ。することもないので毎日12時間はアルカに充てられる。1時
 間に3個の計算なら忘却分を見込んでもたやすい。
-[FIXME--"e el fue Dl on 1000 ue ool lcnile8 h3D, fe el cn n"]
+{{"tu eks tyu mal fan 1000 vet fol alisnakea? hqm, tu et kin na"}}
 「大丈夫、がんばるよ」
 　私は机に戻ると辞書に没頭しはじめた。
 
 　レインはしばらくじっと見ていたが、やがて白紙の紙を差し出してきた。
-[FIXME--"loD non DIl QInhir sein, pen Ussee) se"]
+{{"xom non mal fan hac tuan. ren axt tuus atu"}}
 「え？」
 　レインは「しおん」と平仮名を書いてきた。
 「もしかして、平仮名を知りたいの?」
-[FIXME--"e Dolocllel el DICJ pl. loD fue ni Jcllcn on lool llen len, pn non efel on nojD
-e lɔɔ lɔNɔ II. nchonpo8 Qysel"]
+{{"tu mols fil xel el mais arka. xom tyu na sil kin on xook alen lena. alson non estel fan dosm 
+e xook kokko aa... nihongo,? fastel"}}
 「とにかく日本語を覚えたいのね? じゃあとりあえず文字を書いてあげるよ。これは平
-仮名っていうのよ。[FIXME--fefe ef hclipin]」
+仮名っていうのよ。{{tutu et hilagana}}」
 　そう言いながら私は50音表とそのハルム転写を書いてあげた。自分で書けるよう、矢
 印と数字で運筆と書き順を示してあげた。
 　レインは{{"ya, seere"}}と言って、こちょこちょと鉛筆で文字を書き出した。私はにこりと
