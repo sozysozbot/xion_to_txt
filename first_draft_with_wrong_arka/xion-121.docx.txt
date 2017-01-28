@@ -1,11 +1,11 @@
 　あれ、ダメか。あまり驚かない。……よし、レインの人の良さを信じよう。
-[FIXME--"non en JCCni suier"
-"ed88 İılı ey8"]
+{{"non ...en siina tyu!"}}
+{{"ep?? lala es?"}}
 　怒るかと思ったらまるで見当違いで、むしろ泣きそうな顔になるレイン。
-[FIXME--"Yılı e8 sə es sɔ88 sə es sɔ88 non hus sə. non JCCn syə. non JCCn sųər"]
+{{"lala es? tu et to?? tu et to?? non laxat tu. non siina tyu. non siina tyu!"}}
 するとレインはこちらの意思を汲み取ってくれた。
-[FIXME--", syə Jollys lin non puen "e" əl "hl" Jese. hlı əl e8"]
-[FIXME--"DD8 əl es sɔ8 dcs e Iz8]……あ、ちがった。[FIXME--docs s'Z8"]
+{{"a, tyu solsat lan non rens "es" ul "lala" sete. lala ul es?"}}
+{{"mm? ul et to? pit e az?……あ、ちがった、pit t'az?"}}
 　彼女はリンゴとオレンジの絵を描いた。次に{{az}}と書き、選ぶように片方ずつ手で押さ
 えた。次に{{ul}}と書いて同じく選ぶように片方ずつ手で押さえた後、今度は両手で両方を
 押さえた。
@@ -15,12 +15,12 @@
 　つまり、今レインは「ララとエスのどちらが云々」と言っていたのだろう。ララという
 のは何度か文頭で聞いたことがある。どうも語気が荒いときに使うようだ。となると、「な
 ぜ」はエスの線が濃厚だな。
-[FIXME--"e es so8"
-"el uple CD Jeu lin Din"]
+{{"es et to?"}}
+{{"el yol es im ser lan man"}}
 　マンを知りたいときに使うもの。……エスがwhyだとするならマンは「理由」……か
 な。よし、試してみよう。
-[FIXME--"lecn, el fue JCCn Dcc8"
-"DC.Din sə es is"]
+{{"lein, es tyu siina miik?"}}
+{{"mi...man tu et atx"}}
 　どうもその予測で良いらしい。
 「そういえば、どうして{{es}}を聞こうとしたんだっけ？ 話が入り組みすぎて分からなく
 なっちゃった。まぁいいか」
