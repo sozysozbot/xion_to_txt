@@ -7,7 +7,7 @@
 　となるとファルは必要とか義務を表す副詞ってことかもしれない。つまり「水を飲まな
 くてはならない」のような。
 
-"hai, non axt fan freyu wen le nan xaxes a tyu. diin tisoa"
+{{"hai, non axt fan freyu wen le nan xaxes a tyu. diin tisoa"}}
 　彼女は笑って拍手した。拍手はどういう意味なのだろう。日本と同じで褒め称えるとき
 などに使うのか？ つまり……これでひと段落着いたということか？
 　その後、レインは表を描いた。これまでの復習内容だった。私はレインの表を元に日本
