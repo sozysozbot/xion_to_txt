@@ -1,4 +1,4 @@
-レインは{{"non ser min. vik siina lu min"}}と書き、{{"non ser min le vik siina"}}と書い
+　レインは{{"non ser min. vik siina lu min"}}と書き、{{"non ser min le vik siina"}}と書い
 た。
 　ははぁ、これは対格の関係詞を説明したいのだろう。だが待て。主格も対格も{{le}}では
 ないか。もしかして格に関係なく{{le}}を使うのだろうか。だとしたら中国語の「的」と同
