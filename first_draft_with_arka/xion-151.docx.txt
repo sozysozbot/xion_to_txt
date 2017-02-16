@@ -1,31 +1,31 @@
-[FIXME--"nee, lecn, seu, non jD lin le I sue, diJo8"]
-　[FIXME--seu]や[FIXME--oc」]などは格を失って独立して文頭に来ることができる。一方、[FIXME--Jccm]などは独立
+{{"nee, lein. tur, non asm lan xe a tyu, passo?"}}
+　{{tur}}や{{fis}}などは格を失って独立して文頭に来ることができる。一方、{{siina}}などは独立
 して文末に来て、事象に対する肯定的な気持ちなどを表す。こういうのは独立した品詞の
 ようで、私は純詞と呼んでいる。
-[FIXME--"u, leeu"
-"el fue J feblo uee8 dcn, cl non"]
+{{"ya, leev"}}
+{{"es tyu ra atu kokko yuu? pin, tix non"}}
 　なんで家に一人で住んでいたんだろう。家族はどこに行ったの？
-[FIXME--"Dcl. lcse non leeue Isoly"]
+{{"mil... xite noan leeves atolas"}}
 「レーヴェス・アトラス？　この星を去っている？　あっ……」
 　私は口を押さえた。そうか……やはり……。
-[FIXME--"3D8"]
+{{"om?"}}
 　気の毒な表情で問う。
-[FIXME--"DIDI, CD non s lcs. un didi, neeup, J lo tels csen IIDislenin"]
+{{"mama, im non at lij. yan papa, duurga, sa ko xelt iten lamakt lenan"}}
 　お母さんが小さいときで、お父さんが先月……。
 　かわいそうに。お父さんなんてつい最近のことじゃないの……。ウチのは二人とも元気
 でよかった。
 
-[FIXME--"DD. dens"
-"3D... ƏƏne es oecn"
-"eene, lecn"
-"Jen. Jee neeJp| fuelon fU, uen euCJoeln ee"]
+{{"mm... pent"}}
+{{"qm... uude et fein"}}
+{{"uude, lein"}}
+{{"sent. see duurga at yulfan t'art, yun erisfelan eu"}}
 　ユルファン・タルト……。
 　間の{{t}}は「〜の」という意味だから、アルトのユルファンという意味だよね。{{art}}……ん？
 　私は辞書を引いた。
 「ねぇ、レイン……{{art}}って……魔法だよね……？」
-[FIXME--"D8"
-"suə Uenjc |pus Jese8"
-"ul neeJp| fuelon f|Uf"]
+{{"m?"}}
+{{"tyu rensik art sete?"}}
+{{"ya. duurga at yulfan t'art"}}
 　私は二重に驚いた。まず、娘のレインが父親を呼び捨てにしたこと。ドゥルガさんとい
 うらしい。何かしら人名の呼び方のルールというのがあるのだろう。場合によっては親を
 

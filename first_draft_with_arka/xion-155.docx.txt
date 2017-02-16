@@ -4,13 +4,13 @@
 「あと何分なんだろ……」
 　きょろきょろするが、電光掲示板はない。それどころか時刻表も見当たらない。レイン
 を見るが、彼女は一向に気にする様子がない。
-[FIXME--"nee lecn, OD lod ləní8"
-"suƏ en seus le oo seƏ "səən"8 sə oɔ Idci leeulod hɔlɔ UJ ens"]
+{{"nee lein, om lop luna?"}}
+{{"tyu en terat xe fo teu "tuun"? tu fo apia leevlop kokko ras enat"}}
 　なるほど、「トゥーン」という音の鳴る数で「あと何分で電車が来るか」を教えている
 のか。2回鳴ればあと2分ということ。よく見ると音と同時に近くのライトが点滅してい
 る。難聴者用だろう。それはそうと、10回も「トゥーン」が鳴ったらうるさくない？
-[FIXME--"fe e lutel ao len JJ 10 j8"
-"dJO, ? UJ es INI"]
+{{"tu te lav xel fo luna ras 10 as?"}}
+{{"passo, 3 ras et alka"}}
 　なるほど、最高3回までなのね。それで済んでいるということは、そもそも山手線みた
 いに本数が多いんでしょうね。あるいはアルバザード人は本数が少なくても気にしないと
 か。
