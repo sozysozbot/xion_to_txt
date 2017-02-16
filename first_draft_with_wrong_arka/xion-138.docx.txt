@@ -16,17 +16,17 @@
 
 　朝食は簡単で、シリアルだった。ようやくパン以外の穀物を食べた気がした。食後は一
 休みした。
-[FIXME--"nee, lecn, fue fe oelin8"]
+{{"nee, lein. tyu te felan?"}}
 　{{fel}}は「学ぶ」という意味。{{an}}は「人」なので、{{felan}}で「学生」だ。私は覚えたての単
 語を使ってみたくて聞いてみた。発音にも少し慣れてきた。
-[FIXME--"D. fue puenJjen pl elojel feu. (cnl. Jee fee, non el oeln"]
-　[FIXME--eo」]というのが分からないので、すかさず辞書を引く。どうやら「流暢」とかそういう
+{{"m... tyu rens sen arka ekosel ter. tinka. see tee, non et felan"}}
+　{{ekos}}というのが分からないので、すかさず辞書を引く。どうやら「流暢」とかそういう
 感じの意味らしい。分からない単語が出るたびに辞書を引くことにした。
-[FIXME--"u, non lnil uec. fue el oelin Jefe. Jon el fue en lou oeh8"]
-学生なのは分かったが、学校に行かんのかね。
-[FIXME--"Dcl DellyelnCin"
-"II. OD sue loulcs oeh8"]
+{{"ya, non alnak vei. tyu et felan sete. son es tyu en kor felka?"}}
+　学生なのは分かったが、学校に行かんのかね。
+{{"mil melselnian"}}
+{{"aa... om tyu kor kit felka?"}}
 　正月休みか。じゃあいつから行くんだろう。
-[FIXME--"Jel e Juli e, non Lil Qin plı II sųƏ Nils sə eə"]
+{{"sel e rava e. non xax fan arka a tyu kalt tu eu"}}
 
 138
