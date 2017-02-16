@@ -1,12 +1,12 @@
-[FIXME--"esso, sue jeu le8"]
+{{"etto, tyu ser lu?"}}
 　レインが不安そうな顔で尋ねる。
-[FIXME--"ollbys ins oe"]
+{{"oklabast ant de"}}
 　なんとアルシェさんの同僚だったらしい。じゃあ魔法研究所の一員ってこと？
 
 　彼は関節技を外し、ネブラを解放する。観念したのか、彼は大人しく床に座った。
 　アルシェさんはこほんと喉を鳴らすと、立ち上がって椅子を引く。
-[FIXME--"yı, Uen J.Cn fe, denfınf on ın ucuf (c. fil Jı fofil, fc Ue unflee) uen)"]
-　ネブラは反省したのか、私たちを見てばつの悪そうな顔で[FIXME--"nseo."]と言った。この反応
+{{"saa, ren skin atu. pentant on an vixat ti. tal sa total, ti re vant luus yunk"}}
+　ネブラは反省したのか、私たちを見てばつの悪そうな顔で{{"anteo..."}}と言った。この反応
 は私にとっては意外で、肩透かしを食らってしまった。
 　レインは黙って頷くと、台所に行った。
 「どうしたの？」
@@ -18,15 +18,15 @@
 　まったく、どこまでこの子はお人好しなんだか。
 　ところがその性格がネブラに残っていた微かな良心を呼び覚ましたのか、彼は気まずそ
 うな顔で呟いた。
-[FIXME--"hec Dclc, n ocs un sel pus uns ules, hun scci en upuse) ne"]
+{{"hei milia, an fit van tex rat xant. xalet, kaan tiil en vortes de"}}
 　その一言に全員が一瞬で凍りついた。
 　私は耳を疑った。全員が疑ったに違いない。
 　今こいつ、何て言った……？　「お前の父親は生きてるかもしれないぞ」ですって……？
-[FIXME--"sƏ es. In InDCn.8"]
+{{"tu et... xan anmian...?"}}
 　声が震えるレイン。無理もない。だがどうしてこいつがそんなことを知っているのだ。
 そもそも窃盗と何の関係があるのだ。
 　ネブラは心中の疑問を察したかのように続ける。
-[FIXME--"uclos, li Nųo no uOUss... lini nes le zɔn C lelin, le zon... uJoe Ny"]
+{{"vilot, la kyos nos vortat... lana nekt le zon i xelan. le zon... varde kaks"}}
 　あの杖が本物のヴァルデですって？
 
 191
