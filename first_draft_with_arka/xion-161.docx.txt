@@ -4,7 +4,7 @@
 　アリアさんは2皿も食べるのだろうかと思って驚いたが、数分後に現れたのはかばんを
 持ったアリアさんとアルシェさんだった。どうやら彼は共通の友人だったようだ。
 　彼女は私を見てにこりとすると、前の席に座った。アルシェさんはこちらを見て一瞬躊
-躇した後、私の横に座ろうとする。するとレインが少し焦った表情で彼を制し、[FIXME--"lcon fe"]
+躇した後、私の横に座ろうとする。するとレインが少し焦った表情で彼を制し、{{"xion, atu"}}
 と言って私をひとつ横の席に動かそうとする。
 　ははぁ、席次のマナーか。どうやら私は上座に陣取っていたらしい。ここは年上のアル
 シェさんの席になるようだ。彼が来た瞬間、私は席を立つ必要があったようだ。
@@ -14,13 +14,13 @@
 た。なんだか急に重い空気が流れる。恐らく「どうしてマナーも知らない子がウチの学校
 に？」と思ったのだろう。恥ずかしいなぁ……。
 　しかしアルシェさんは苦笑すると、私の椅子を指差した。
-[FIXME--"Cn Uınel lcDel JeCn, Jlcl ləəs es Us Us. In eD UCJ UCen len Uec CD hiipul scJ i"]
-するとアリアさんは納得した顔をして、[FIXME--"din e"]と言った。
+{{"in ranel limel sein, skil luut et ratsrats. an em ris rien xed rei im harx tis a"}}
+　するとアリアさんは納得した顔をして、{{"pana e"}}と言った。
 　アルシェさんの絶妙なフォローに感謝しつつ、レインをチラっと見た。すると、彼女は
 水を飲むふりをしながら微かに目を下から上に動かした。恐らくこれは「今のうちに立っ
 たほうがいい」というメッセージだろう。私はすっと立ち上がって彼に席を譲った。
-[FIXME--"oueype lule, sue lcscì non pisel puì. sco se Jlcles usenso se Dolj ocl bebelel Lel non
-Jou nin Inscje"]
+{{"dyussou arxe, tyu klitik non ratel rak. tio tu skil et rats ento tu mols fil bebelel xel non 
+sor nan antisse"}}
 　すると彼はにこやかな顔でお辞儀をすると、私のいた席に座った。代わって私がアリア
 さんの前の席に座ると、彼女は私に好意的な視線を向けた。
 　椅子がガタついていたせいで席を譲るのに時間がかかったというユーモアはどうやら
