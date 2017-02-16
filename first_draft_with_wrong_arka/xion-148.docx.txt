@@ -10,22 +10,22 @@
 
 　それにしても彼女は学校に行かないのだろうか。確か今日辺りからのはず。
 　朝食後、私は不思議に思ってレインに聞いた。
-[FIXME--"OD cloucfoen8"
-"oc e"]
+{{"om il kor kit felka?"}}
+{{"fis e"}}
 　やはり今日か。
-[FIXME--"Jon fuye hoU Qul uIQel"
-"dyɔ. non lopu elo. OneNı oɔl oɔƏ Jel Dc non lil lin plı II sųə"]
+{{"son tyu kor fal vadel"}}
+{{"passo. non kor elf felka fol fou sel mil non xax lan arka a tyu"}}
 　私にアルカを教えるためっていうのは嬉しいけど、それで学校を休ませるのは気が引け
 る。でも、どうしてレインはこんなに親切にしてくれるんだろう。
-[FIXME--"el fue el mis pl nom8"
-"Icí, Dcl fuge NNfnon JCCn. lOD non nf nIn N. Ol fuge lel ilfoCin, feffeyJ, non ni nin go lin 
-Dcl nun JCCni fuge, lcon, non ni bn o lol e"
-"hin, un8 non ni nie fcCnil. non fin JCCn fuge fc fcn, leCn"]
+{{"es tyu et daj soa a non?"}}
+{{"kit, mil tyu alkat non siina. xom non nat nan alk fal tyu lex altfian. tet tur, non na nan so lan 
+mil nan siina tyu, xion. non na ban o lol e"}}
+{{"haan, xan? non na nau tiinal. non tan siina tyu ati tin, lein"}}
 　彼女は恥ずかしそうに微笑む。
 「でもね、レイン。私のために学校を休むのはやめてほしいの」
-[FIXME--"Due. Jen pJen (e loìlo nChonọO JOO. OeCn"]
+{{"myu... ren rens tu kokko nihongo sof fein"}}
 「レインは　学校を　行くべき　です」
-　日本語のコロケーションでは「学校に行く」だが、アルカの[FIXME--"leoel"]に合わせて「学校
+　日本語のコロケーションでは「学校に行く」だが、アルカの{{"ke felka"}}に合わせて「学校
 を」にしておいた。このほうがレインには誤解なく通じるだろう。これも私なりの人工言
 語だ。
 

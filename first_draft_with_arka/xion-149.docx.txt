@@ -1,5 +1,5 @@
-[FIXME--"3D. e「] じゃあ　しおんは　なにを　このいえで　する　ですか。れいんと　いっしょ
-がっこうを　いく　ですか{{"}}
+{{"qm... tet じゃあ　しおんは　なにを　このいえで　する　ですか。れいんと　いっしょ
+がっこうを　いく　ですか"}}
 　私はこくこくと頷いた。
 
 　結局レインと一緒に学校へ行くことにした。「アルナ大学」というところに通っている
@@ -10,23 +10,23 @@
 　そうそう、レインに年を聞いたところ、16歳だという。夏で17歳というので、私と同
 い年のようだ。ふつう白人は日本人より年上に見えるが、レインは白人の血がそこまで濃
 くないので若く見える。それに、やや童顔だというのもある。
-　大学は[FIXME--Dm]というが、6年間は長いので[FIXME--JDn]とに[FIXME--Dn]に分かれている。訳すと「前期
-大学」と「後期大学」になる。レインはこの[FIXME--Jpn]の最終学年である[FIXME--nuse]という学年に当
+　大学は{{manaka}}というが、6年間は長いので{{samana}}とに{{ximana}}に分かれている。訳すと「前期
+大学」と「後期大学」になる。レインはこの{{samana}}の最終学年である{{narte}}という学年に当
 たる。つまり彼女は受験生ということになる。
 
 　レインは準備を済ませて居間に下りてくる。手にはかばんを持っている。
-[FIXME--"lcon, fue fin el oelin oc en8"
-"u non (n el nufe ulf felio"]
+{{"xion, tyu tan et felan ka fia tuan?"}}
+{{"ya. non tan et narte xalt tu kad"}}
 　話をしながら玄関を出る。鍵を閉めて通りに出る。学生だろうか、レインのような格好
 をした女の子がかばんを持って歩いている。
-[FIXME--"leCD on oCI sein, le Delos sue se. Illi e i pi non euo8"]
+{{"kuim on fia tuan, xe meldat tyu atu. lala es a ra noan eyo?"}}
 　私をここに連れてきた金髪をレインも知らないらしい。
-[FIXME--"en Jeg"
-"lcel, le eflı uc bolben fcdy8"
-"see see, leucis. Ins"
-"If liní8 Ueny Il jej lin"]
+{{"en ser"}}
+{{"xiel, lu et la vik kokkoen tips?"}}
+{{"tee tee, lu vik at... lant"}}
+{{"at lant? rens ax ses lant"}}
 「あ、そうか」
 　思わず掌を合わせた。
-　アルカだと過去形の繋辞の{{at}}は純粋に過去の状態を指す。[FIXME--"e 「|n"]だと、前は美しか
+　アルカだと過去形の繋辞の{{at}}は純粋に過去の状態を指す。{{"lu at lant"}}だと、前は美しか
 
 149
